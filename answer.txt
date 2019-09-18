@@ -25,7 +25,7 @@ For Java it should include following:-
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-2. What does fast-forward in Git mean?
+2.What does fast-forward in Git mean?
 Ans:- When there is no commit in master and feature branch is ahead of master branch then fast forwarding happens. But if master branch is not ahead of feature branch then fast forward cannot happen.
 
 3. Why should you have different branches?
