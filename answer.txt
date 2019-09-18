@@ -28,7 +28,7 @@ hs_err_pid*
 2. What does fast-forward in Git mean?
 Ans:- When there is no commit in master and feature branch is ahead of master branch then fast forwarding happens. Thhis happens at the time of merging feature branch to master.
 3. Why should you have different branches?
-Ans:-Many people are working on deveolpment at same time. So each developer can work on one branch individually.. He can merge his code in master branch to add features and functionalities later.
+Ans:-Many people are working on deveolpment at same time. So each developer can work on one branch individually. He can merge his code in master branch to add features and functionalities later.
 
 4. In a project how many remote Git repositories do you usually have?
 Ans:- One
