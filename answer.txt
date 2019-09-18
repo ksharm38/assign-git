@@ -26,8 +26,7 @@ For Java it should include following:-
 hs_err_pid*
 
 2. What does fast-forward in Git mean?
-Ans:- When there is no commit in master and feature branch is ahead of master branch then fast forwarding happens. But if master branch is not ahead of feature branch then fast forward cannot happen.
-
+Ans:- When there is no commit in master and feature branch is ahead of master branch then fast forwarding happens. Thhis happens at the time of merging feature branch to master.
 3. Why should you have different branches?
 Ans:-Many people are working on deveolpment at same time. So each developer can work on one branch individually.. He can merge his code in master branch to add features and functionalities later.
 
